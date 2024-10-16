@@ -7,9 +7,9 @@
         <a href="https://github.com/straystreyk/straystreyk/blob/CustomBranch/README_RU.md"><span>Русский</span></a>
     </div>
     <div>
-        💻 Currently working at <a href="https://nanosemantics.ai/">Nanosemantics</a> as a frontend team lead
+        💻 В настоящее время работаю в компании <a href="https://nanosemantics.ai/">Наносемантика</a>
     </div>
     <div>
-        🌟 My VPN service - <a href="https://camelvpn.net/">CamelVPN</a>
+        🌟 Мой сервис VPN - <a href="https://camelvpn.net/">CamelVPN</a>
     </div>
 </div>
