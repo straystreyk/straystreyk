@@ -8,10 +8,7 @@
     </p>
     <div>
         <p>
-            💻 Currently working at <a href="https://nanosemantics.ai/">Nanosemantics</a> as a frontend team lead
-        </p>
-        <p>
-            🌟 My VPN service - <a href="https://camelvpn.net/">CamelVPN</a>
+            💻 Currently working at <a href="https://nanosemantics.ai/">SBERTECH</a> as a Senior Frontend Developer
         </p>
     </div>
 </div>
