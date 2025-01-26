@@ -8,7 +8,7 @@
     </p>
     <div>
         <p>
-            💻 Currently working at <a href="https://nanosemantics.ai/">SBERTECH</a> as a Senior Frontend Developer
+            💻 Currently working at <a href="https://sbertech.ru/">SBER TECH</a> as a Senior Frontend Developer
         </p>
     </div>
 </div>
