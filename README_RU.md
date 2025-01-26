@@ -8,10 +8,7 @@
     </p>
     <div>
         <p>
-            💻 В настоящее время работаю в компании <a href="https://nanosemantics.ai/">Наносемантика</a>
-        </p>
-        <p>
-            🌟 Мой сервис VPN - <a href="https://camelvpn.net/">CamelVPN</a>
+            💻 В настоящее время работаю в компании <a href="https://sbertech.ru/">SBER TECH</a>
         </p>
     </div>
 </div>
